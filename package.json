@@ -1,0 +1,25 @@
+{
+  "name": "react-admin",
+  "version": "1.0.0",
+  "description": "Admin React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloskdu/react-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloskdu/react-admin/issues"
+  },
+  "homepage": "https://github.com/carloskdu/react-admin#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
