@@ -17,7 +17,7 @@ function Contador(){
     }
     return <div>
         <div>{contador}</div>
-        <button onClick={adicionarContador}>Adicionar</button>
+        <button onClick={adicionarContador}>Add</button>
     </div>
 }
 export default Home
