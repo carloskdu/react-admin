@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: https://github.com/carloskdu/react-admin/actions
+        uses: itepbrasil/react-admin/actions@v1
         with:
           who-to-greet: 'Nome'
       # Use the output from the `hello` step
