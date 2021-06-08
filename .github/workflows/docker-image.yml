@@ -10,9 +10,9 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: kepkin/kong-react-admin
 
     steps:
     - uses: actions/checkout@v2
     - name: React
-      run: docker build kepkin/kong-react-admin
+      run: docker build
